@@ -1,0 +1,31 @@
+.header-background {
+  background-color: #264653;
+}
+
+.header-btn-color {
+  background-color: #e76f51;
+}
+.text-color-change {
+  color: #e76f51;
+}
+.user-text-p-color {
+  color: #23a6f0;
+}
+.fade-image {
+  filter: grayscale(1);
+}
+
+.Bike-buynow {
+  background-color: #e76f51;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+.confirm-btn {
+  background-color: #e76f51;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
